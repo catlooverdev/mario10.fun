@@ -18,7 +18,7 @@ Mario10.fun uses [Grunt](http://gruntjs.com/) to automate building, which requir
 
 #### Coding
 
-Mario10.fun is built on a modular framework called GameStartr. The [FullScreenShenanigans](https://github.com/FullScreenShenanigans/) organization contains GameStartr, it's parent class EightBittr, and the modules used by the GameStartr framework. These all (theoretically) have their own README files, which you should skim before developing for Mario10.fun itself.
+Mario10.fun is built on a modular framework called GameStartr. it's parent class EightBittr, and the modules used by the GameStartr framework. These all (theoretically) have their own README files, which you should skim before developing for Mario10.fun itself.
 
 All source code is in the [Source](Source/) directory. See [Getting Started.md](Getting Started.md) for an in-depth guide on getting started programming with Mario10.fun.
 
